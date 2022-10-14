@@ -2,7 +2,7 @@
 <h3 align="center">A passionate programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavk920&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavk920" /> </p>
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/828/1*lhOax3cZATGZwEhG0uTYRA.gif">
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/828/1*lhOax3cZATGZwEhG0uTYRA.gif">
 
 
 - 🌱 I’m currently learning **JAVA + DSA**
